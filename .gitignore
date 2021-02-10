@@ -1,3 +1,6 @@
+ frontend-challenge/
+        ng.cmd
+        src/app/assets/
 # Specifies intentionally untracked files to ignore when using Git
 # http://git-scm.com/docs/gitignore
 
@@ -29,3 +32,9 @@ npm-debug.log*
 /platforms
 /plugins
 /www
+
+ frontend-challenge/
+        ng.cmd
+        src/app/assets/
+
+
